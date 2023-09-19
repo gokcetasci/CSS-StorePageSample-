@@ -2,6 +2,36 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.liste li img {
-    width: 300;
+h1 {
+    color: rgb(57, 128, 208);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(178, 97, 254);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(172, 33, 84);
+}
+
+.first {
+    text-align: center;
+}
+
+.second {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+li {
+    text-align: center;
 }
